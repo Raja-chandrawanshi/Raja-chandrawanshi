@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Chandrawanshi</h1>
-<h3 align="center">I am Frontend Developer .</h3>
+<h3 align="center">Hi, i am Raja Chandrawanshi ,a passionate frontend developer . I specialize in leveraging a variety of tools and technologies to enhance frontend development. My toolbox includes frameworks like React , pre-processors such as Sass</h3>
 
 - Netflix Clone using Vanilla Css [https://github.com/Raja-chandrawanshi/Netflix_Clone.git](https://github.com/Raja-chandrawanshi/Netflix_Clone.git)
 
